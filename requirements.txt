@@ -1,0 +1,4 @@
+ollama
+rich
+chromadb
+sentence-transformers
