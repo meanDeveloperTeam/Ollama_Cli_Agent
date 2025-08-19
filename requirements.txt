@@ -2,3 +2,5 @@ ollama
 rich
 chromadb
 sentence-transformers
+langchain-text-splitters
+libcst
